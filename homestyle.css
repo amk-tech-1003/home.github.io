@@ -1,0 +1,84 @@
+h1{
+    color:white;
+}
+
+#myVideo {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    min-width:100%;
+    min-height:100%;
+    width:auto;
+    height:auto;
+    z-index: -1;
+}
+nav{
+    height: 200;
+}
+.logo{
+    size: 50%;
+    border-radius: 50%;
+}
+#symptoms{
+    margin-left: 700px; 
+    margin-top: 0px;
+    border-radius: 100%;
+    border-color: rgb(66, 104, 187);
+    border-style:ridge;
+    border-width:10px;
+  }
+  
+  
+  
+  .re{
+     position:center;
+    color:black;
+    position: relative;
+  }
+  #research{
+    border-radius: 100%;
+    border-color: rgb(66, 104, 187);
+    border-style:ridge;
+    border-width:10px;
+  margin-top:50px;
+  margin-left: 300px;
+  
+  }
+  #coronanews{
+    border-radius: 100%;
+    border-color: rgb(66, 104, 187);
+    border-style:ridge;
+    border-width:10px;
+  margin-top:50px;
+  margin-left: 300px;
+  
+  }
+  #aboutdigihealth{
+    border-radius: 100%;
+    border-color: rgb(66, 104, 187);
+    border-style:ridge;
+    border-width:10px;
+  margin-top:50px;
+  margin-left: 300px;
+  
+  }
+  #doctors{
+  border-radius: 100%;
+  border-color: rgb(66, 104, 187);
+  border-style:ridge;
+  border-width:10px;
+  margin-top:50px;
+  margin-left: 300px;
+  
+  }
+   .robotimg{
+       border-radius: 100%;
+  border-color: rgb(66, 104, 187);
+  border-style:ridge;
+  border-width:10px;
+   }
+.midd{
+    align-self: center;
+}
+  
